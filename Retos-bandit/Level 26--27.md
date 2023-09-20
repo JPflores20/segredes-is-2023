@@ -1,50 +1,35 @@
-
-# Level 22--23
+# Level 26--27
 ## Objetivo
-
+¡Buen trabajo consiguiendo un caparazón! ¡Ahora date prisa y consigue la contraseña de bandit27!
 ```
-Server    : bbandit22@bandit.labs.overthewire.org
-Password  : WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
-
-
+Server    : bbandit26@bandit.labs.overthewire.org
+Password  : c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
 ```
 ## Solución
 ```bash
-ssh bandit22@bandit.labs.overthewire.org -p 2220
-
-bandit22@bandit:~$ ls /etc/cron.d
-cronjob_bandit15_root  cronjob_bandit22  cronjob_bandit24       e2scrub_all  sysstat
-cronjob_bandit17_root  cronjob_bandit23  cronjob_bandit25_root  otw-tmp-dir
-
-bandit22@bandit:~$ cat /etc/cron.d/cronjob_bandit23
-@reboot bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
-* * * * * bandit23 /usr/bin/cronjob_bandit23.sh  &> /dev/null
-
-bandit22@bandit:~$ cat /usr/bin/cronjob_bandit23.sh
-#!/bin/bash
-
-myname=$(whoami)
-mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
-
-echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
-
-cat /etc/bandit_pass/$myname > /tmp/$mytarget
-
-bandit22@bandit:~$ whoami
-bandit22
-
-bandit22@bandit:~$ myname=bandit23
-
-bandit22@bandit:~$ echo $(echo I am user $myname | md5sum | cut -d ' ' -f 1)
-8ca319486bfbbc3663ea0fbe81326349
-
-bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
-QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
-
-bandit22@bandit:~$ exit
-logout
-Connection to bandit.labs.overthewire.org closed.
-
+ssh bandit26@bandit.labs.overthewire.org -p 2220
+ _ _ _ _ ___ __
+| | | (_) | |__ \ / /
+| |__ __ _ _ __ __| |_| |_ ) / /_
+| '_ \ / _` | '_ \ / _` | | __| / / '_ \
+--More--(66%)
+v
+_ _ _ _ ___ __
+| | | (_) | |__ \ / /
+| |__ __ _ _ __ __| |_| |_ ) / /_
+| '_ \ / _` | '_ \ / _` | | __| / / '_ \
+| |_) | (_| | | | | (_| | | |_ / /| (_) |
+"~/text.txt" [readonly] 6L, 258B
+:set shell=/bin/bash
+:shell
+[No write since last change]
+bandit26@bandit:~$ bandit26@bandit:~$ ls
+bandit27-do text.txt
+bandit26@bandit:~$ ./bandit27-do id
+uid=11026(bandit26) gid=11026(bandit26) euid=11027(bandit27) groups=11026(bandit26)
+bandit26@bandit:~$ ./bandit27-do cat /etc/bandit_pass/bandit27
+YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
+bandit26@bandit:~$
 ```
 ## Notas adicionales
 | Comando | Descripción |

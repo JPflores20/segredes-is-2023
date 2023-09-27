@@ -196,18 +196,6 @@
             }
           },
           {
-            "id": "8e2ee8c46ef98dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a4c428b9488e67e",
             "type": "leaf",
             "state": {
@@ -226,66 +214,6 @@
               "type": "markdown",
               "state": {
                 "file": "Retos-bandit/Level 27--28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e31162a8cc26078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 28--29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f7eea2493e39b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 29--30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8868c2d68807eea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 30--31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a45dc8bfbf454d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 31--32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5f7abb851cbaa6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 33--34.md",
                 "mode": "source",
                 "source": false
               }
@@ -764,21 +692,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "513d33792c736b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 33--34.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 64
+        "currentTab": 57
       }
     ],
     "direction": "vertical"
@@ -844,7 +760,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 33--34.md",
+                "file": "ExamenParcial1/3.7. Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -861,7 +777,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 33--34.md",
+                "file": "ExamenParcial1/3.7. Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -884,7 +800,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 33--34.md"
+                "file": "ExamenParcial1/3.7. Based.md"
               }
             }
           },
@@ -914,14 +830,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "513d33792c736b69",
+  "active": "8a98d10debec2bb1",
   "lastOpenFiles": [
+    "Level 33--34.md",
+    "Retos-bandit/Level 29--30.md",
+    "Retos-bandit/Level 28--29.md",
+    "Retos-bandit/README.md",
+    "Retos-bandit/Level 33--34.md",
+    "Retos-bandit/Level 32--33.md",
+    "Retos-bandit/Level 31--32.md",
+    "Retos-bandit/Level 30--31.md",
     "Level 32--33.md",
     "Level 31--32.md",
     "Level 30--31.md",
     "Level 29--30.md",
     "Level 28--29.md",
-    "Level 33--34.md",
     "Retos-bandit/Level 27--28.md",
     "ExamenParcial1/3.8. Plumbing.md",
     "ExamenParcial1/3.6. runme.py.md",
@@ -935,13 +858,6 @@
     "ExamenParcial1/2.8. what's a net cat.md",
     "ExamenParcial1/2.7. strings it.md",
     "ExamenParcial1/2.6. fixme1.py.md",
-    "ExamenParcial1/2.5. First Grep.md",
-    "ExamenParcial1/2.4. Convertme.py.md",
-    "ExamenParcial1/2.3. Codebook.md",
-    "ExamenParcial1/2.2. Bases.md",
-    "ExamenParcial1/2.1 Warm.md",
-    "ExamenParcial1/1.8. Warmed Up.md",
-    "ExamenParcial1/1.7. Lets Warm Up.md",
     "Untitled",
     "ExamenParcial1",
     "Untitled.canvas",

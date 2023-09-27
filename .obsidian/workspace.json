@@ -476,9 +476,309 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "c5a18b079046c0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.2. Wave Flag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfa979abdb11f3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.3. Nice netcat....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eddb378a50f07f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.4. Static ain't always noise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d212a37b8d95f209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.5. Tab, Tab, Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7950505ccbc353a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.6. Magikarp Ground Mission.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb627469143e4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.8. Warmed Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba6763f11539d3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/1.7. Lets Warm Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c54b714126f1d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.1 Warm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18bc60e69af021ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.2. Bases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5acceee9f2c98b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.3. Codebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3bab27d9225d4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.4. Convertme.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58391645277030bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.5. First Grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "238c08a0e7436b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.6. fixme1.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "623256306d1efb63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.7. strings it.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d75e50c86dc8aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.8. what's a net cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "547a1fef8bdae301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/2.8. what's a net cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "698515a63adad560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.1. fixme2.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c811380523556a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.1. fixme2.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53efa256f7e5137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.2. Glitch Cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "548d5c676ac2678c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.3. PW Crack 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7039edcfed9cf3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.4. PW Crack 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0daeaea3b2cf5a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.5. PW Crack 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018f266b47e4f78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.6. runme.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a98d10debec2bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExamenParcial1/3.7. Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "513d33792c736b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 33--34.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 64
       }
     ],
     "direction": "vertical"
@@ -544,7 +844,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-bandit/Level 27--28.md",
+                "file": "Level 33--34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -561,7 +861,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-bandit/Level 27--28.md",
+                "file": "Level 33--34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -584,7 +884,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-bandit/Level 27--28.md"
+                "file": "Level 33--34.md"
               }
             }
           },
@@ -614,35 +914,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee694c4e78a0d3ac",
+  "active": "513d33792c736b69",
   "lastOpenFiles": [
-    "Retos-bandit/Level 26--27.md",
-    "Retos-bandit/Level 25--26.md",
-    "Retos-bandit/Level 24--25.md",
-    "Retos-bandit/Level 27--28.md",
-    "Retos-bandit/Level 23--24.md",
-    "Retos-bandit/Level 22--23.md",
-    "2023-09-07.md",
-    "Retos-bandit/Level 21--22.md",
-    "Retos-bandit/Level 18--19.md",
     "Level 32--33.md",
-    "Level 33--34.md",
     "Level 31--32.md",
     "Level 30--31.md",
     "Level 29--30.md",
     "Level 28--29.md",
-    "README.md",
+    "Level 33--34.md",
+    "Retos-bandit/Level 27--28.md",
+    "ExamenParcial1/3.8. Plumbing.md",
+    "ExamenParcial1/3.6. runme.py.md",
+    "ExamenParcial1/PLANTILLA.md",
+    "ExamenParcial1/3.7. Based.md",
+    "ExamenParcial1/3.5. PW Crack 3.md",
+    "ExamenParcial1/3.4. PW Crack 2.md",
+    "ExamenParcial1/3.3. PW Crack 1.md",
+    "ExamenParcial1/3.2. Glitch Cat.md",
+    "ExamenParcial1/3.1. fixme2.py.md",
+    "ExamenParcial1/2.8. what's a net cat.md",
+    "ExamenParcial1/2.7. strings it.md",
+    "ExamenParcial1/2.6. fixme1.py.md",
+    "ExamenParcial1/2.5. First Grep.md",
+    "ExamenParcial1/2.4. Convertme.py.md",
+    "ExamenParcial1/2.3. Codebook.md",
+    "ExamenParcial1/2.2. Bases.md",
+    "ExamenParcial1/2.1 Warm.md",
+    "ExamenParcial1/1.8. Warmed Up.md",
+    "ExamenParcial1/1.7. Lets Warm Up.md",
+    "Untitled",
+    "ExamenParcial1",
     "Untitled.canvas",
-    "Retos-bandit/Level 10--11.md",
-    "Retos-bandit/Level 20--21.md",
-    "Retos-bandit/Level 19--20.md",
-    "Retos-bandit/Level 17--18.md",
-    "Retos-bandit/Level 16--17.md",
-    "Retos-bandit/Level 15--16.md",
-    "Retos-bandit/Level 14--15.md",
-    "Retos-bandit/Level 13--14.md",
-    "Retos-bandit/Level 12--13.md",
-    "Retos-bandit/Level 11--12.md",
     "Retos-bandit"
   ]
 }

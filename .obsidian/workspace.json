@@ -1148,9 +1148,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b03a32c20bde817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pico CTF/Retos Crypto - Parte 2/rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aed0be6ea3d1f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pico CTF/Retos Crypto - Parte 2/miniRSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "997dd7e25021aed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 95
+        "currentTab": 98
       }
     ],
     "direction": "vertical"
@@ -1216,7 +1252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pico CTF/Retos Crypto - Parte 1/waves over lambda.md",
+                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1233,7 +1269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pico CTF/Retos Crypto - Parte 1/waves over lambda.md",
+                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1256,7 +1292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pico CTF/Retos Crypto - Parte 1/waves over lambda.md"
+                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md"
               }
             }
           },
@@ -1287,18 +1323,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "754b612524ac3cf6",
+  "active": "ee694c4e78a0d3ac",
   "lastOpenFiles": [
-    "Pico CTF/Retos Crypto - Parte 1/The Numbers.md",
+    "Pico CTF/Retos Crypto - Parte 2/miniRSA.md",
+    "Pico CTF/Retos Forensic - Parte 3/MacroHard WeakEdge.md",
+    "Untitled.canvas",
+    "PLANTILLA.md",
+    "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
+    "Untitled/Pasted image 20231029185544.png",
+    "Untitled/Pasted image 20231029185540.png",
+    "Pico CTF/Retos Crypto - Parte 2/rsa-pop-quiz.md",
+    "Pico CTF/Retos Crypto-Parte2",
+    "Pico CTF/Retos Crypto - Parte 2",
     "Pico CTF/Retos Crypto - Parte 1/waves over lambda.md",
+    "Pico CTF/Retos Crypto - Parte 1/The Numbers.md",
     "Pico CTF/Retos Crypto - Parte 1/Tapping.md",
     "Pico CTF/Retos Crypto - Parte 1/la cifra de.md",
     "Pico CTF/Retos Crypto - Parte 1/cesar.md",
     "Pico CTF/Retos Crypto - Parte 1/13.md",
     "Pico CTF/Retos Crypto - Parte 1/Easy1.md",
-    "PLANTILLA.md",
-    "Untitled.canvas",
-    "MacroHard WeakEdge.md",
     "2023-10-24.md",
     "Pico CTF/Retos Crypto - Parte 1",
     "Pico CTF/Retos Forensic - Parte 3/tunn3l v1s10n.md",
@@ -1317,11 +1360,7 @@
     "Pico CTF/Retos Forensic - Parte 1/So Meta.md",
     "Pico CTF/Retos Forensic - Parte 1/Glory of the Garden.md",
     "Pico CTF/Retos Forensic - Parte 2/like1000.md",
-    "Pico CTF/Retos Forensic - Parte 2/c0rrupt.md",
     "Untitled/Pasted image 20231018114654.png",
-    "Pico CTF/Retos Forensic - Parte 2/WhitePages.md",
-    "Pico CTF/Retos Forensic - Parte 2/m00nwalk.md",
-    "Pico CTF/Retos Web parte01/1.1. Insp3ct0r.md",
     "Untitled/Pasted image 20231018113433.png",
     "Untitled/Pasted image 20231018105238.png",
     "Untitled/Pasted image 20231018105232.png",
@@ -1329,12 +1368,8 @@
     "Pico CTF/Retos Forensic - Parte 2",
     "Pico CTF/Retos Forensic - Parte 1",
     "Untitled/Pasted image 20231011104444.png",
-    "Untitled/Pasted image 20231011104426.png",
     "Pico CTF/Retos Web Parte03",
     "MetaRed",
-    "Pico CTF/Retos Web Parte02",
-    "Untitled/Pasted image 20231002112910.png",
-    "Pico CTF/Retos Web parte01",
-    "Pico CTF"
+    "Pico CTF/Retos Web Parte02"
   ]
 }

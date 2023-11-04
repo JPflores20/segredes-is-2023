@@ -939,7 +939,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLANTILLA.md",
+                "file": "ExámenParcial2/Parte2/02--Wireshark doo dooo do doo....md",
                 "mode": "source",
                 "source": false
               }
@@ -1054,18 +1054,6 @@
             }
           },
           {
-            "id": "e745937bff5d7260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ded5b396194e60b8",
             "type": "leaf",
             "state": {
@@ -1119,7 +1107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLANTILLA.md",
+                "file": "ExámenParcial2/Parte2/02--Wireshark doo dooo do doo....md",
                 "mode": "source",
                 "source": false
               }
@@ -1184,9 +1172,213 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d901b9b01323d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/01--Includes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54a71771cc833d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/02--Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be64f28dfee7dfd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/03--Local Authority.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f01edd3651cc1625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/04--Search source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16339ecdc5d2b0f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/05--Forbidden Paths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0058b828c85e01f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/06--Power Cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76a90cca5d7136a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/07--Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d2ea8157d4cf68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/08--Secrets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b984f4df20af24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte1/09--SQL Direct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e72bc58a8313844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/01--information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5074a475667d057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/02--Wireshark doo dooo do doo....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfc8a1be729c1b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/03--Enhance!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3073ac85bb31e4e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/05--Packets Primer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13d6ec7e28938eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/04--Lookey here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f28bd2a1ad23ed1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/06--Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d06b965974ebeb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/07--St3g0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b32ebe0a4a07e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExámenParcial2/Parte2/06--Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 98
+        "currentTab": 114
       }
     ],
     "direction": "vertical"
@@ -1252,7 +1444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
+                "file": "ExámenParcial2/Parte2/06--Redaction gone wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1269,7 +1461,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
+                "file": "ExámenParcial2/Parte2/06--Redaction gone wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1292,7 +1484,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md"
+                "file": "ExámenParcial2/Parte2/06--Redaction gone wrong.md"
               }
             }
           },
@@ -1325,10 +1517,30 @@
   },
   "active": "ee694c4e78a0d3ac",
   "lastOpenFiles": [
+    "ExámenParcial2/Parte2/07--St3g0.md",
+    "ExámenParcial2/Parte2/06--Redaction gone wrong.md",
+    "ExámenParcial2/Parte2/05--Packets Primer.md",
+    "ExámenParcial2/Parte2/04--Lookey here.md",
+    "ExámenParcial2/Parte2/03--Enhance!.md",
+    "1--PLANTILLA.md",
+    "ExámenParcial2/Parte2/01--information.md",
+    "ExámenParcial2/Parte2/02--Wireshark doo dooo do doo....md",
+    "ExámenParcial2/Parte1/09--SQL Direct.md",
+    "ExámenParcial2/Parte1/08--Secrets.md",
+    "ExámenParcial2/Parte1/07--Roboto Sans.md",
+    "ExámenParcial2/Parte1/06--Power Cookie.md",
+    "ExámenParcial2/Parte1/05--Forbidden Paths.md",
+    "ExámenParcial2/Parte1/04--Search source.md",
+    "ExámenParcial2/Parte1/03--Local Authority.md",
+    "ExámenParcial2/Parte1/02--Inspect HTML.md",
+    "ExámenParcial2/Parte1/01--Includes.md",
+    "Untitled.canvas",
+    "2023-10-24.md",
+    "ExámenParcial2/Parte2",
+    "ExámenParcial2/Parte1",
+    "ExámenParcial2",
     "Pico CTF/Retos Crypto - Parte 2/miniRSA.md",
     "Pico CTF/Retos Forensic - Parte 3/MacroHard WeakEdge.md",
-    "Untitled.canvas",
-    "PLANTILLA.md",
     "Pico CTF/Retos Crypto - Parte 2/b00tl3gRSA2.md",
     "Untitled/Pasted image 20231029185544.png",
     "Untitled/Pasted image 20231029185540.png",
@@ -1339,27 +1551,11 @@
     "Pico CTF/Retos Crypto - Parte 1/The Numbers.md",
     "Pico CTF/Retos Crypto - Parte 1/Tapping.md",
     "Pico CTF/Retos Crypto - Parte 1/la cifra de.md",
-    "Pico CTF/Retos Crypto - Parte 1/cesar.md",
-    "Pico CTF/Retos Crypto - Parte 1/13.md",
-    "Pico CTF/Retos Crypto - Parte 1/Easy1.md",
-    "2023-10-24.md",
     "Pico CTF/Retos Crypto - Parte 1",
-    "Pico CTF/Retos Forensic - Parte 3/tunn3l v1s10n.md",
-    "Pico CTF/Retos Forensic - Parte 3/Matryoshka doll.md",
     "Untitled/Pasted image 20231023001541.png",
-    "Pico CTF/Retos Forensic - Parte 3/WebNet1.md",
-    "Pico CTF/Retos Forensic - Parte 3/WebNet0.md",
     "Pico CTF/Retos Forensic - Parte 3",
-    "Pico CTF/Retos Forensic - Parte 2/shark on wire 2.md",
-    "Pico CTF/Retos Forensic - Parte 2/shark on wire 2 1.md",
-    "Pico CTF/Retos Forensic - Parte 1/What Lies Within.md",
     "Untitled/Pasted image 20231022124045.png",
-    "Pico CTF/Retos Forensic - Parte 1/extensions.md",
     "Untitled/Pasted image 20231022113111.png",
-    "Pico CTF/Retos Forensic - Parte 1/shark on wire 1.md",
-    "Pico CTF/Retos Forensic - Parte 1/So Meta.md",
-    "Pico CTF/Retos Forensic - Parte 1/Glory of the Garden.md",
-    "Pico CTF/Retos Forensic - Parte 2/like1000.md",
     "Untitled/Pasted image 20231018114654.png",
     "Untitled/Pasted image 20231018113433.png",
     "Untitled/Pasted image 20231018105238.png",
@@ -1367,9 +1563,6 @@
     "Untitled/message.wav",
     "Pico CTF/Retos Forensic - Parte 2",
     "Pico CTF/Retos Forensic - Parte 1",
-    "Untitled/Pasted image 20231011104444.png",
-    "Pico CTF/Retos Web Parte03",
-    "MetaRed",
-    "Pico CTF/Retos Web Parte02"
+    "Untitled/Pasted image 20231011104444.png"
   ]
 }

@@ -1496,9 +1496,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1306f65ac057b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/01--asm1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcc4355ef25da5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1--PLANTILLA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc755f92d883819a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/02--asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54bf1ead8b370edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/01--asm1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 124
+        "currentTab": 128
       }
     ],
     "direction": "vertical"
@@ -1564,7 +1612,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/05--vault-door-5.md",
+                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/01--asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1581,7 +1629,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/05--vault-door-5.md",
+                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/01--asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1604,7 +1652,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/05--vault-door-5.md"
+                "file": "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/01--asm1.md"
               }
             }
           },
@@ -1635,15 +1683,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e736dcb0ca8470f2",
+  "active": "54bf1ead8b370edb",
   "lastOpenFiles": [
-    "Pasted image 20231107234532.png",
+    "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/02--asm2.md",
+    "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/01--asm1.md",
+    "Pico CTF/Retos Reversing/Retos Reversing - Parte 2/03--asm3.md",
+    "1--PLANTILLA.md",
+    "Untitled/Pasted image 20231107234532.png",
+    "Untitled/02--asm2.md",
+    "Pico CTF/Retos Reversing/Retos Reversing - Parte 2",
+    "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/05--vault-door-5.md",
     "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/01--vault-door-training.md",
     "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/02--vault-door-1.md",
     "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/03--vault-door-3.md",
     "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/04--vault-door-4.md",
-    "Pico CTF/Retos Reversing/Retos Reversing - Parte 1/05--vault-door-5.md",
-    "1--PLANTILLA.md",
     "Pico CTF/Retos Crypto/Retos Crypto - Parte 3/05--ReadMyCert.md",
     "Pico CTF/Retos Reversing",
     "Pico CTF/Retos Reversing/Retos Reversing - Parte 1",
@@ -1667,22 +1720,16 @@
     "ExámenParcial2/Parte2/02--Wireshark doo dooo do doo....md",
     "ExámenParcial2/Parte1/09--SQL Direct.md",
     "ExámenParcial2/Parte1/08--Secrets.md",
-    "ExámenParcial2/Parte1/07--Roboto Sans.md",
-    "ExámenParcial2/Parte1/06--Power Cookie.md",
-    "ExámenParcial2/Parte1/05--Forbidden Paths.md",
-    "ExámenParcial2/Parte1/04--Search source.md",
     "Untitled.canvas",
     "ExámenParcial2/Parte2",
     "ExámenParcial2/Parte1",
     "ExámenParcial2",
     "Untitled/Pasted image 20231029185544.png",
     "Untitled/Pasted image 20231029185540.png",
-    "Pico CTF/Retos Crypto-Parte2",
     "Untitled/Pasted image 20231023001541.png",
     "Untitled/Pasted image 20231022124045.png",
     "Untitled/Pasted image 20231022113111.png",
     "Untitled/Pasted image 20231018114654.png",
-    "Untitled/Pasted image 20231018113433.png",
-    "Untitled/Pasted image 20231018105238.png"
+    "Untitled/Pasted image 20231018113433.png"
   ]
 }
